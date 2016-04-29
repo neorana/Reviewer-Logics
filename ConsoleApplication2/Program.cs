@@ -17,7 +17,7 @@ namespace ConsoleApplication2
             var mysum = intList.Sum();
             
             
-            //Other Approachssssssss
+            //Other Approachssssssssyyyy
             int num = 485;
             List<int> listOfInts = new List<int>();
             while (num > 0)
